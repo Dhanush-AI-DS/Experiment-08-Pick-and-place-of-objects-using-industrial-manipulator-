@@ -1,5 +1,10 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
+# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+```
+### Name : DHANUSH S
+
+### Register Number : 212221230020
+```
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -80,6 +85,28 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
+### output video and screen shots of pick and place
+### Program:
+![r11](https://user-images.githubusercontent.com/93427186/203107097-34eb698b-5eac-4853-9a77-d5e5b1c5b466.jpg)
+
+![r12](https://user-images.githubusercontent.com/93427186/203107110-4d00a763-ac82-404e-9279-5c1b6c8db31a.jpg)
+
+
+![r13](https://user-images.githubusercontent.com/93427186/203107124-18671367-6dd7-4322-bd54-dd15222d3093.jpg)
+
+
+### Robo Action:
+
+
+
+![r14](https://user-images.githubusercontent.com/93427186/203107177-503df1bf-294f-47e0-9270-227e3e03754b.jpg)
+
+
+![r15](https://user-images.githubusercontent.com/93427186/203107195-59031567-ffed-4d0a-b294-ed9d93668823.jpg)
+
+
+
+![r16](https://user-images.githubusercontent.com/93427186/203107210-a32bd8a2-15c4-4204-b841-f47e6e25519d.jpg)
 
 
 
@@ -90,15 +117,6 @@ and click on the connect icon
 
 
 
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
 
 
 
@@ -107,7 +125,7 @@ and click on the connect icon
 
 
 ### Results: 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
