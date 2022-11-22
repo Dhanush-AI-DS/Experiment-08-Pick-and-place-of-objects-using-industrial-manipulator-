@@ -1,9 +1,9 @@
 
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 ```
-### Name : DHANUSH S
+Name : DHANUSH S
 
-### Register Number : 212221230020
+Register Number : 212221230020
 ```
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
